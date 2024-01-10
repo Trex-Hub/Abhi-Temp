@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of the following is a client-side language?",
+        "incorrect_answers": ["Java", "C", "Python"],
+        "correct_answer": "JavaScript"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "incorrect_answers": ["Cascading Style Sheet", "Jason Object Notation", "Helicopters Terminals Motorboats Lamborghinis"],
+        "correct_answer": "Hypertext Markup Language"
+    },
+    {
+        "question": "What year was JavaScript launched?",
+        "incorrect_answers": ["1996", "1995", "1994"],
+        "correct_answer": "1995"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "incorrect_answers": ["Cascading Styles Sheet", "Jason Object Notation", "Helicopters Terminals Motorboats Lamborghinis"],
+        "correct_answer": "Cascading Style Sheet"
+    },
+    {
+        "question": "In HTML, what does the 'alt' attribute in the image tag signify?",
+        "incorrect_answers": ["Alignment of the image", "Alert message for the image", "Attribute value of the image"],
+        "correct_answer": "Alternate text for the image"
+    },
+    {
+        "question": "Which tag is used to create a hyperlink in HTML?",
+        "incorrect_answers": ["<h1>", "<p>", "<link>"],
+        "correct_answer": "<a>"
+    },
+    {
+        "question": "What is the purpose of the 'box-sizing' property in CSS?",
+        "incorrect_answers": ["To define the size of the webpage", "To set the border size of an element", "To adjust the padding of the webpage"],
+        "correct_answer": "To control the size of the content box in an element"
+    },
+    {
+        "question": "Which property is used to change the background color in CSS?",
+        "incorrect_answers": ["color", "text-color", "bgcolor"],
+        "correct_answer": "background-color"
+    },
+    {
+        "question": "In JavaScript, how do you declare a variable?",
+        "incorrect_answers": ["variable variableName;", "v variableName;", "declare variableName;"],
+        "correct_answer": "var variableName;"
+    },
+    {
+        "question": "What is the purpose of the 'document.getElementById()' method in JavaScript?",
+        "incorrect_answers": ["To get the value of an element", "To get the style of an element", "To get the class of an element"],
+        "correct_answer": "To get an element by its ID"
+    },
+    {
+        "question": "Which of the following is NOT a valid JavaScript data type?",
+        "incorrect_answers": ["string", "boolean", "array"],
+        "correct_answer": "float"
+    },
+    {
+        "question": "What is the purpose of the 'console.log()' function in JavaScript?",
+        "incorrect_answers": ["To log errors in the console", "To print a message on the webpage", "To create a popup message"],
+        "correct_answer": "To display a message in the browser console"
+    },
+    {
+        "question": "Which HTML tag is used to include external JavaScript code?",
+        "incorrect_answers": ["<javascript>", "<js>", "<code>"],
+        "correct_answer": "<script>"
+    },
+    {
+        "question": "What does CSS Box Model consist of?",
+        "incorrect_answers": ["Header, Footer, Sidebar, Main Content", "Rows and Columns", "Header, Navigation, Main, Footer"],
+        "correct_answer": "Content, Padding, Margin, Border"
+    },
+    {
+        "question": "Which CSS property is used for changing the font size of text?",
+        "incorrect_answers": ["text-size", "size", "text-font"],
+        "correct_answer": "font-size"
+    },
+    {
+        "question": "What is the purpose of the 'onclick' attribute in HTML?",
+        "incorrect_answers": ["To define a style for an element", "To include external JavaScript code", "To link to another webpage"],
+        "correct_answer": "To specify a function to run when a button is clicked"
+    },
+    {
+        "question": "Which operator is used for concatenation in JavaScript?",
+        "incorrect_answers": ["-", "*", "&"],
+        "correct_answer": "+"
+    },
+    {
+        "question": "What is the purpose of the 'float' property in CSS?",
+        "incorrect_answers": ["To create a floating effect on an element", "To define the position of an element", "To clear the floated elements"],
+        "correct_answer": "To move an element to the left or right"
+    },
+    {
+        "question": "Which HTML tag is used to create an unordered list?",
+        "incorrect_answers": ["<ol>", "<li>", "<dl>"],
+        "correct_answer": "<ul>"
+    },
+    {
+        "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+        "incorrect_answers": ["To perform mathematical operations", "To define the type of a function", "To create a new variable"],
+        "correct_answer": "To check the type of a variable"
+    }
+]
